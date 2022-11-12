@@ -1,0 +1,15 @@
+.text-container{
+    width: auto;
+    font-size: 32px;
+    margin-top: 20px;
+    /* height: 10vh; */
+    background-color: orange;
+    color: green;
+}
+.inputno{
+    width: 100px;
+}
+.text-container:hover{
+    background-color: darkorange;
+    color: red;
+}
