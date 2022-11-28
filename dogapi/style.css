@@ -1,0 +1,16 @@
+.dogContainer{
+    text-align: center;
+}
+body{
+    background-color: #EDEBF2;
+    font-family: 'Poppins', sans-serif;
+}
+#dogButton{
+    margin-top:10px;
+    border: none;
+    border-radius: 2px;
+    background-color: #076387;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
