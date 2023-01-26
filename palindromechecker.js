@@ -5,4 +5,5 @@ const isPalindrome = (string) => {
     }
     return (rev==string)
 }
+
 console.log(isPalindrome('racecar'))
